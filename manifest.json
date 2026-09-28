@@ -1,0 +1,16 @@
+{
+  "name": "فصل 5 و 6 مدارس احد إنجيلية العباسية",
+  "short_name": "فصل 5 و 6",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1A202C",
+  "theme_color": "#1A202C",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='110' fill='%231A202C'/><path d='M216 110h80v110h110v80H296v182h-80V300H106v-80h110V110z' fill='%23FA855A'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
