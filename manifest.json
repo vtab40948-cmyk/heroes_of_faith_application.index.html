@@ -3,11 +3,11 @@
   "short_name": "فصل 5 و 6",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#1A202C",
-  "theme_color": "#1A202C",
+  "background_color": "#C93638",
+  "theme_color": "#C93638",
   "icons": [
     {
-      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='110' fill='%231A202C'/><path d='M216 110h80v110h110v80H296v182h-80V300H106v-80h110V110z' fill='%23FA855A'/></svg>",
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='110' fill='%23C93638'/><rect x='206' y='96' width='100' height='320' rx='16' fill='%23FFDE96' stroke='%231A202C' stroke-width='16'/><rect x='116' y='186' width='280' height='100' rx='16' fill='%23FFDE96' stroke='%231A202C' stroke-width='16'/></svg>",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any maskable"
